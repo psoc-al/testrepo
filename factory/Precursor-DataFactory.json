@@ -1,0 +1,9 @@
+{
+	"name": "Precursor-DataFactory",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "852e84cc-855a-49d0-9a16-20a9907ea12e",
+		"tenantId": "c96c9995-dd1a-4d6a-a76a-6faa85de62d8"
+	}
+}
